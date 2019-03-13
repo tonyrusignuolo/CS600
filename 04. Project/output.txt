@@ -1,0 +1,138 @@
+C:\Users\Tony the Potato\Google Drive\My Drive\3. Academics\1. Stevens\2. Masters (Computer Science)\1. Courses\'18 S3\CS600WS (Advanced Algorithms)\4. Project>py searchEngine.py
+
+
+Welcome to Tony's CS600 PySearch!
+
+search >>> a
+None
+
+search >>> at
+None
+
+search >>> the
+None
+
+search >>> berrics
+The Berrics.html
+
+
+search >>> her
+None
+
+search >>> hers
+None
+
+search >>> between
+None
+
+search >>> yourself
+None
+
+search >>> but
+None
+
+search >>> the
+None
+
+search >>> thing
+The Berrics.html
+
+
+search >>> is
+None
+
+search >>> my
+None
+
+search >>> we
+None
+
+search >>> e
+Bell - Wikipedia.html
+Bear - Wikipedia.html
+Stock - Wikipedia.html
+Dormouse - Wikipedia.html
+Bull - Wikipedia.html
+Buy - Wikipedia.html
+The Berrics.html
+
+
+search >>> f
+Bear - Wikipedia.html
+The Berrics.html
+Bell - Wikipedia.html
+Stock - Wikipedia.html
+Stop - Wikipedia.html
+
+
+search >>> g
+Bear - Wikipedia.html
+Bell - Wikipedia.html
+Dormouse - Wikipedia.html
+Stock - Wikipedia.html
+Bull - Wikipedia.html
+BID - Wikipedia.html
+Buy - Wikipedia.html
+Sell - Wikipedia.html
+Stop - Wikipedia.html
+The Berrics.html
+
+
+search >>> h
+Bear - Wikipedia.html
+The Berrics.html
+Bell - Wikipedia.html
+Stock - Wikipedia.html
+Bull - Wikipedia.html
+
+
+search >>> i
+None
+
+search >>> j
+Bear - Wikipedia.html
+Bell - Wikipedia.html
+The Berrics.html
+Bull - Wikipedia.html
+Dormouse - Wikipedia.html
+Stock - Wikipedia.html
+Stop - Wikipedia.html
+
+
+search >>>
+None
+
+search >>> k
+Bell - Wikipedia.html
+Bear - Wikipedia.html
+Dormouse - Wikipedia.html
+
+
+search >>> l
+Bear - Wikipedia.html
+The Berrics.html
+Bell - Wikipedia.html
+Bull - Wikipedia.html
+Sell - Wikipedia.html
+
+
+search >>> m
+Bear - Wikipedia.html
+The Berrics.html
+Dormouse - Wikipedia.html
+Bull - Wikipedia.html
+
+
+search >>> nope
+None
+
+search >>> none
+Bell - Wikipedia.html
+Bear - Wikipedia.html
+Dormouse - Wikipedia.html
+Stock - Wikipedia.html
+BID - Wikipedia.html
+Bull - Wikipedia.html
+Stop - Wikipedia.html
+Buy - Wikipedia.html
+Sell - Wikipedia.html
